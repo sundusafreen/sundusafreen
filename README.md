@@ -1,15 +1,12 @@
 # Hi, I'm Sundus 👋
 
-I'm an engineer-turned-business analyst based in Dublin, Ireland — currently finishing my MSc in Business Analytics at Trinity College Dublin.
+I'm an engineer-turned-business analyst based in Dublin, Ireland, currently completing my MSc in Business Analytics at Trinity College Dublin.
 
-My work sits at the intersection of data, sustainability, and strategy. Before moving to Ireland, I spent three years at Schneider Electric in India working on green hydrogen, EV infrastructure, and battery energy storage markets — which is probably why I ended up doing my dissertation on ESG credibility gaps in food manufacturing.
+My work sits at the intersection of data, sustainability, and strategy. Before moving to Ireland, I spent three years at Schneider Electric in India working on green hydrogen, EV infrastructure, and battery energy storage markets, which is probably why I ended up doing my dissertation on ESG credibility gaps in food manufacturing.
 
 ---
 
 ## What I'm working on
-
-**MSc Dissertation — ESG & Stock Returns in Food Manufacturing (2020–2024)**  
-Combining SASB disclosure scores with GDELT-derived media sentiment to explain variation in stock returns across a panel of 20 companies. Built the dataset from scratch — 100 rows, 83 columns, custom tooling for SASB metric extraction.
 
 **AI-Powered ESG Scoring Tool (EY Capstone)**  
 An end-to-end system for Irish food manufacturing SMEs: NLP pipeline, XGBoost classifier, SHAP explainability, CSRD Readiness Score, and greenwashing detection. Supervised by EY Ireland. (In Progress)
